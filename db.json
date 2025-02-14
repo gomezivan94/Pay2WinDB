@@ -7,7 +7,7 @@
   "Description": "Durante más de dos décadas, Counter-Strike ha brindado una experiencia competitiva de élite, una experiencia moldeada por millones de jugadores en todo el mundo. Ahora es el momento de comenzar el siguiente capítulo en la historia de CS. Esto es Counter-Strike 2.",
   "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/730/header.jpg?t=1729703045",
   "Type": "FPS",
-  "Destacado": true;
+  "Destacado": true
   },
   {
   "id": 2,
@@ -17,7 +17,7 @@
   "Description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
   "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1733509027",
   "Type": "Dark Souls",
-  "Destacado": false;
+  "Destacado": false
   },
   {
   "id": 3,
@@ -27,7 +27,7 @@
   "Description": "EL NUEVO RPG DE ACCIÓN DE FANTASÍA. Levántate, tiznado, y déjate guiar por la gracia para esgrimir el poder del Anillo de Elden y convertirte en un Señor de Elden en las Tierras Intermedias.",
   "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1738690346",
   "Type": "Dark Souls",
-  "Destacado": false;
+  "Destacado": false
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "Description": "Lies of P is a thrilling soulslike that takes the story of Pinocchio, turns it on its head, and sets it against the darkly elegant backdrop of the Belle Epoque era.",
     "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1732755139",
     "Type": "Dark Souls",
-  "Destacado": false;
+  "Destacado": false
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
       "Description": "Black Myth: Wukong es un RPG de acción inspirado en la mitología china. Emprenderás la travesía como el Destinado, enfrentarás desafíos, conocerás maravillas y descubrirás la oscura verdad que yace bajo el engañoso velo de una gloriosa leyenda ancestral.",
       "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg?t=1739542141",
       "Type": "Dark Souls",
-  "Destacado": false;
+  "Destacado": false
       },
       {
         "id": 6,
@@ -57,7 +57,7 @@
         "Description": "Call of Duty®: Black Ops 6 presenta la característica Campaña cinematográfica de Black Ops, la mejor experiencia de Multijugador y el épico regreso de Zomis pos rondas.",
         "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2933620/header.jpg?t=1738088305",
         "Type": "FPS",
-  "Destacado": false;
+  "Destacado": false
         },
         {
           "id": 7,
@@ -67,7 +67,7 @@
           "Description": "Battlefield™ 2042 es un juego de disparos en primera persona que marca el regreso de la icónica guerra total de la franquicia.",
           "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1738598406",
           "Type": "FPS",
-  "Destacado": false;
+  "Destacado": false
           },
           {
             "id": 8,
@@ -77,7 +77,7 @@
             "Description": "¡Volvió Delta Force! La icónica serie regresó como el moderno juego de disparos táctico por equipo definitivo y gratuito con tres modos de juego: guerra JcJ a gran escala, intensa acción de disparos con exfiltración y una nueva versión de la campaña legendaria Black Hawk Down.",
             "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2507950/header.jpg?t=1739539816",
             "Type": "FPS",
-  "Destacado": false;
+  "Destacado": false
             },
             {
               "id": 9,
@@ -87,7 +87,7 @@
               "Description": "Explora los coloridos paisajes del mundo abierto de México con una acción de conducción ilimitada y divertida en los mejores autos del mundo. Únete a un emocionante juego de persecución con nuestra nueva experiencia multijugador 5c1: Las escondidas.",
               "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1737050285",
               "Type": "Carreras",
-  "Destacado": false;
+  "Destacado": false
               },
               {
                 "id": 10,
@@ -97,7 +97,7 @@
                 "Description": "Únete a la parrilla y sé 1 de las 20 personas al volante. Maneja como las grandes estrellas en EA SPORTS™ F1® 24, el videojuego oficial del 2024 FIA Formula One World Championship™.",
                 "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2488620/header.jpg?t=1736517761",
                 "Type": "Carreras",
-  "Destacado": false;
+  "Destacado": false
                 },
                 {
                   "id": 11,
@@ -107,7 +107,7 @@
                   "Description": "Apúrate de día y arriésgalo todo de noche en Need for Speed™ Heat Deluxe Edition, un juego de carreras callejeras dinámico, donde las líneas de la ley se desvanecen a medida que se pone sol.",
                   "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1716831270",
                   "Type": "Carreras",
-  "Destacado": false;
+  "Destacado": false
                   },
                   {
                     "id": 12,
@@ -117,7 +117,7 @@
                     "Description": "Take on the American motorsports scene as you explore and dominate the land, air, and sea across the entire USA. With a wide variety of cars, bikes, boats, and planes, compete in a wide range of driving disciplines.",
                     "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg?t=1736258631",
                     "Type": "Carreras",
-  "Destacado": false;
+  "Destacado": false
                     }
 ]
 }
