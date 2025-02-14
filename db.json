@@ -1,4 +1,4 @@
-"Juegos": [
+{"Juegos": [
   {
   "id": 1,
   "Title": "Counter Strike 2",
@@ -27,3 +27,4 @@
   "Type": "Dark Souls"
   }
 ]
+}
