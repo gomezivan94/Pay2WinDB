@@ -39,17 +39,7 @@
     "Type": "Souls like",
   "Destacado": false
     },
-    {
-      "id": 5,
-      "Title": "Black Myth: Wukong",
-      "Trailer": "https://video.cloudflare.steamstatic.com/store_trailers/257048125/movie480_vp9.webm?t=1729236218",
-      "Released": "19 AGO 2024",
-      "Description": "Black Myth: Wukong es un RPG de acción inspirado en la mitología china. Emprenderás la travesía como el Destinado, enfrentarás desafíos, conocerás maravillas y descubrirás la oscura verdad que yace bajo el engañoso velo de una gloriosa leyenda ancestral.",
-      "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg?t=1739542141",
-      "Type": "Souls like",
-  "Destacado": false
-      },
-      {
+     {
         "id": 6,
         "Title": "Call of Duty®: Black Ops 6",
         "Trailer": "https://video.cloudflare.steamstatic.com/store_trailers/257092651/movie480_vp9.webm?t=1738084049",
