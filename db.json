@@ -128,6 +128,36 @@
                     "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1599660/header.jpg?t=1717622011",
                     "Type": "Plataforma",
   "Destacado": true
+                    },
+  {
+                    "id": 14,
+                    "Title": "Chained Together",
+                    "Trailer": "https://video.cloudflare.steamstatic.com/store_trailers/257021418/movie480_vp9.webm?t=1715093049",
+                    "Released": "19 JUN 2024",
+                    "Description": "Desde las profundidades del infierno, escala encadenado a tus amigos a través de mundos diversos. Solo o en cooperativo.",
+                    "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg?t=1732288374",
+                    "Type": "Plataforma",
+  "Destacado": true
+                    },
+  {
+                    "id": 15,
+                    "Title": "Urban Myth Dissolution Center",
+                    "Trailer": "https://video.cloudflare.steamstatic.com/store_trailers/257096619/movie480_vp9.webm?t=1739372464",
+                    "Released": "12 FEB 2025",
+                    "Description": "Join forces with the psychic Director of the Urban Myth Dissolution Center and solve a variety of cases involving cursed relics, rental properties with shady histories, and dimensional anomalies.",
+                    "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2089600/header.jpg?t=1739425204",
+                    "Type": "Plataforma",
+  "Destacado": true
+                    },
+  {
+                    "id": 16,
+                    "Title": "Tomb Raider IV-VI Remastered",
+                    "Trailer": "https://video.cloudflare.steamstatic.com/store_trailers/257092994/movie480_vp9.webm?t=1739548679",
+                    "Released": "14 FEB 2025",
+                    "Description": "Su legado continúa! Juega a la próxima serie de aventuras de Tomb Raider en esta colección remasterizada de Darkness Trilogy.",
+                    "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2525380/header.jpg?t=1739548682",
+                    "Type": "Plataforma",
+  "Destacado": true
                     }
 ]
 }
