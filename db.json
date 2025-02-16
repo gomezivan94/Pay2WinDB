@@ -109,16 +109,6 @@
                   "Type": "Carreras",
   "Destacado": false
                   },
-                  {
-                    "id": 12,
-                    "Title": "The Crew™ 2",
-                    "Trailer": "https://video.cloudflare.steamstatic.com/store_trailers/256717522/movie480.webm?t=1556554184",
-                    "Released": "29 JUN 2018",
-                    "Description": "Take on the American motorsports scene as you explore and dominate the land, air, and sea across the entire USA. With a wide variety of cars, bikes, boats, and planes, compete in a wide range of driving disciplines.",
-                    "Header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg?t=1736258631",
-                    "Type": "Carreras",
-  "Destacado": false
-                    },
   {
                     "id": 13,
                     "Title": "Sackboy™: Una gran aventura",
